@@ -14,7 +14,13 @@ alias Desktop='cd ~/Desktop/'
 alias Downloads='cd ~/Downloads/'
 
 
+alias c='clear'
+alias psg='ps aux | grep'
+
+
 #Ip address
 alias public='echo $(curl -s https://api.ipify.org)'
 alias private='echo $(ifconfig | grep "inet " | grep -v 127.0.0.1 | cut -d\  -f2)'
+
+
 

@@ -58,7 +58,7 @@ brew install ruby
 brew install pipx
 brew install arp-scan
 brew install aircrack-ng
-
+brew install openssl
 brew install node
 brew install npm
 
