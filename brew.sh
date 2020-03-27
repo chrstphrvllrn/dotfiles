@@ -59,6 +59,8 @@ brew install pipx
 brew install arp-scan
 brew install aircrack-ng
 
+brew install node
+brew install npm
 
 # Remove outdated versions from the cellar.
 brew cleanup

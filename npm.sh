@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
-# catt
- 
+# 
+
+
+npm install catt
 
